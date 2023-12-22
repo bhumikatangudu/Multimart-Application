@@ -1,0 +1,17 @@
+
+
+.table-bordered tr td img {
+    width: 80px !important; /* Set your desired width (e.g., 30px) */
+    height: 80px !important; /* Use "auto" to maintain the aspect ratio */
+  
+    object-fit: cover;
+}
+td i{
+    cursor: pointer;
+}
+td th{
+    color:var(--primary-color)
+}
+
+
+
